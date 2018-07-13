@@ -1,0 +1,11 @@
+<project name="Hello" default="target1">
+<target name="target1">
+    <echo>Hello Ant</echo>
+</target>
+<target name="target2">
+	<echo>Ant is a Bulid tool</echo>
+</target>
+	<target name="target3">
+		<echo>Happy learning</echo>
+	</target>
+</project>
